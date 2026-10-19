@@ -1,6 +1,6 @@
 # TinyLlama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 6 Hours)
-**Active URL:** [https://actually-diversity-transparency-poultry.trycloudflare.com](https://actually-diversity-transparency-poultry.trycloudflare.com)
+**Active URL:** [https://purchase-wayne-gmc-nottingham.trycloudflare.com](https://purchase-wayne-gmc-nottingham.trycloudflare.com)
 
-_Last Updated: Mon Oct 19 02:22:51 UTC 2026_
+_Last Updated: Mon Oct 19 11:33:43 UTC 2026_
