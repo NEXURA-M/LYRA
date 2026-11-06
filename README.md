@@ -1,6 +1,6 @@
 # TinyLlama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 6 Hours)
-**Active URL:** [https://planner-heating-offered-groups.trycloudflare.com](https://planner-heating-offered-groups.trycloudflare.com)
+**Active URL:** [https://affiliation-meals-yes-directory.trycloudflare.com](https://affiliation-meals-yes-directory.trycloudflare.com)
 
-_Last Updated: Thu Nov  5 23:03:06 UTC 2026_
+_Last Updated: Fri Nov  6 04:10:47 UTC 2026_
